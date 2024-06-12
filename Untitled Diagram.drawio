@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T23:49:15.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mi7ONgQ9wzCLwWnB3lgT" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T23:51:37.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EUeY6lIoFWXOiyZO3ZpL" version="24.5.4" type="github">
   <diagram name="Page-1" id="s5Xa10bXptUxb6I1rRZs">
     <mxGraphModel dx="1165" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,13 +51,13 @@
           <mxGeometry x="373" y="450" width="77.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kl2m6a1VXugdCDTJGsaU-41" value="Domain: ADLab&lt;div&gt;Network: 192.168.10.0/24&lt;/div&gt;&lt;div&gt;Splunk Server: 192.168.10.10&lt;/div&gt;&lt;div&gt;Active Directory:192.168.10.7&lt;/div&gt;&lt;div&gt;Attacker:192.168.10.250&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;glass=0;shadow=0;fillColor=none;strokeColor=default;fontColor=default;gradientColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="328" y="140" width="180" height="90" as="geometry" />
+          <mxGeometry x="324" y="140" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kl2m6a1VXugdCDTJGsaU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;curved=0;" parent="1" source="kl2m6a1VXugdCDTJGsaU-1" target="kl2m6a1VXugdCDTJGsaU-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kl2m6a1VXugdCDTJGsaU-56" value="Active Directory Lab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;labelPosition=center;verticalLabelPosition=middle;horizontal=1;labelBorderColor=default;" parent="1" vertex="1">
-          <mxGeometry x="318" y="100" width="200" height="40" as="geometry" />
+          <mxGeometry x="314" y="100" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
