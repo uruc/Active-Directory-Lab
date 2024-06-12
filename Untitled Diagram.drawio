@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T23:27:19.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AkYD5vjy7IBV0TVur9Xa" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T23:31:27.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="e8Zh765282VmMg9fj66G" version="24.5.1" type="github">
   <diagram name="Page-1" id="s5Xa10bXptUxb6I1rRZs">
-    <mxGraphModel dx="971" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="kl2m6a1VXugdCDTJGsaU-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="kl2m6a1VXugdCDTJGsaU-2" target="kl2m6a1VXugdCDTJGsaU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kl2m6a1VXugdCDTJGsaU-2" value="Active Directory&lt;div&gt;IP:192.168.10.7&lt;/div&gt;&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+        <mxCell id="kl2m6a1VXugdCDTJGsaU-2" value="Active Directory&lt;div&gt;IP:192.168.10.7&lt;/div&gt;&lt;div&gt;Splunk Universal Forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#000000;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
           <mxGeometry x="140" y="490" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kl2m6a1VXugdCDTJGsaU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;curved=0;shadow=0;flowAnimation=0;strokeWidth=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kl2m6a1VXugdCDTJGsaU-3" target="kl2m6a1VXugdCDTJGsaU-36">
