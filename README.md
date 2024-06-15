@@ -1,5 +1,6 @@
 # Active-Directory-Lab
-
+**[Uruc Tarim](https://github.com/uruc)** 
+## Index 
 1. [Introduction](#introduction)
 2. [Setup VMs](#setup-vms)
    - [Software Requirements](#software-requirements)
